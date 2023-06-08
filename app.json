@@ -1,7 +1,7 @@
 {
   "expo": {
     "name": "List Tarefa",
-    "slug": "list-tarefa",
+    "slug": "app",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
@@ -32,7 +32,7 @@
     },
     "extra": {
       "eas": {
-        "projectId": "list-tarefa"
+        "projectId": "0495fe63-4862-4297-ab37-bb86cfff37b7"
       }
     }
   }
